@@ -12,11 +12,12 @@ To write a python program to find the rank of a matrix
 
 ## Program:
 
-<img width="1285" height="740" alt="Screenshot 2026-02-05 133955" src="https://github.com/user-attachments/assets/7cc7bc1c-b3e8-42ab-8b63-53dba19f040c" />
+<img width="1153" height="776" alt="Screenshot 2026-02-05 154742" src="https://github.com/user-attachments/assets/30c512ef-7125-41d1-9a8b-e020154b7689" />
 
 ## Output:
 
-<img width="606" height="251" alt="Screenshot 2026-02-05 133935" src="https://github.com/user-attachments/assets/f4150b4f-c9d8-4646-a275-6201f4796959" />
+
+<img width="557" height="207" alt="Screenshot 2026-02-05 154753" src="https://github.com/user-attachments/assets/742228f6-2215-46df-a7aa-8fe914594b67" />
 
 
 ## Result:
